@@ -38,4 +38,11 @@
         android:layout_toStartOf="@+id/button"
         android:layout_marginBottom="101dp"
         android:checked="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Teste commit"
+        android:id="@+id/textView"
+        android:textColor="@android:color/holo_red_dark" />
 </RelativeLayout>
